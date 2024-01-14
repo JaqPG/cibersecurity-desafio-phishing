@@ -25,7 +25,9 @@ Este projeto envolve a criação e simulação de um ataque phishing para captur
 
 - Twitter 
 
- 
+## Print dos Resultados: 
 
-Print dos Resultados: 
+
+![print](https://github.com/JaqPG/cibersecurity-desafio-phishing/assets/156304936/409e2c4e-02b7-4265-add7-f25f8a5d3ca1)
+
 
